@@ -1,0 +1,15 @@
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\bin\Debug\net7.0\Examples_002.exe
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\bin\Debug\net7.0\Examples_002.deps.json
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\bin\Debug\net7.0\Examples_002.runtimeconfig.json
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\bin\Debug\net7.0\Examples_002.dll
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\bin\Debug\net7.0\Examples_002.pdb
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\obj\Debug\net7.0\Examples_002.csproj.AssemblyReference.cache
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\obj\Debug\net7.0\Examples_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\obj\Debug\net7.0\Examples_002.AssemblyInfoInputs.cache
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\obj\Debug\net7.0\Examples_002.AssemblyInfo.cs
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\obj\Debug\net7.0\Examples_002.csproj.CoreCompileInputs.cache
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\obj\Debug\net7.0\Examples_002.dll
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\obj\Debug\net7.0\refint\Examples_002.dll
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\obj\Debug\net7.0\Examples_002.pdb
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\obj\Debug\net7.0\Examples_002.genruntimeconfig.cache
+C:\Users\e.belyankina\Desktop\Examples\Examples_001\Examples_002\obj\Debug\net7.0\ref\Examples_002.dll
